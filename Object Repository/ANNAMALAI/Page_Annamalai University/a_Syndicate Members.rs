@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Syndicate Members</name>
+   <tag></tag>
+   <elementGuidId>c32f3a90-8b56-45b9-92fe-99c32e0e8802</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-inner']/div/div/div/table/tbody/tr/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Syndicate Members&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>47dc7397-073c-46f5-9027-3e63121593f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>download/2024/List_of_Syndicate_2024.pdf</value>
+      <webElementGuid>5c9aa399-d5f0-430e-9728-4347676f2078</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Syndicate Members</value>
+      <webElementGuid>b5108b90-e519-4824-82e7-604451e62771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-inner&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[1]/table[1]/tbody[1]/tr[1]/td[2]/a[1]</value>
+      <webElementGuid>d0796081-70a5-4085-9024-cff8c21252f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-inner']/div/div/div/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>80a891f2-daa8-4472-bce9-1c86f7164786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Syndicate Members')]</value>
+      <webElementGuid>3db50fc9-6e21-46e4-a9a2-37e2b2cc575c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[3]/following::a[1]</value>
+      <webElementGuid>c9c411dd-61c5-469f-bdb1-4113343d411d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[2]</value>
+      <webElementGuid>a83b5c56-81de-4255-9c85-90940385613c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'download/2024/List_of_Syndicate_2024.pdf')]</value>
+      <webElementGuid>c2648690-b13f-44c5-8525-92e42410ca47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a</value>
+      <webElementGuid>934735cb-40ca-4612-9465-da6d4f737ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'download/2024/List_of_Syndicate_2024.pdf' and (text() = '  Syndicate Members' or . = '  Syndicate Members')]</value>
+      <webElementGuid>f14cf6b8-05e0-4877-8499-1d1d0403f354</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

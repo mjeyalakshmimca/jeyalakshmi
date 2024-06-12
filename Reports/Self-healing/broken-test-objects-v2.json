@@ -1,0 +1,44 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Sign in - Google Accounts/path",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "path \u003e\u003e nth\u003d0",
+      "proposedLocatorMethod": "SMART_LOCATOR",
+      "recoveryMethod": "SMART_LOCATOR",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Sign in - Google Accounts/path_SMART_LOCATOR.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ANNAMALAI/Page_Annamalai University/a_Syndicate Members",
+      "brokenLocator": "//div[@id\u003d\u0027page-inner\u0027]/div/div/div/table/tbody/tr/td[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Home\u0027])[1]/following::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ANNAMALAI/Page_Annamalai University/a_Syndicate Members_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ANNAMALAI/Page_Annamalai University/a_Academic Council Members",
+      "brokenLocator": "//div[@id\u003d\u0027page-inner\u0027]/div/div/div/table/tbody/tr[3]/td[2]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027May I Help You\u0027])[1]/preceding::a[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ANNAMALAI/Page_Annamalai University/a_Academic Council Members_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ANNAMALAI/Page_Annamalai University/strong_Under Construction",
+      "brokenLocator": "//div[@id\u003d\u0027page-inner\u0027]/div/div[2]/h2/strong",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Home\u0027])[1]/following::strong[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ANNAMALAI/Page_Annamalai University/strong_Under Construction_neighbor.png"
+    }
+  ]
+}

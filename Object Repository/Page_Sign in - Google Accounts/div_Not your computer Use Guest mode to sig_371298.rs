@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Not your computer Use Guest mode to sig_371298</name>
+   <tag></tag>
+   <elementGuidId>ffd505ba-f36c-485c-b4c0-cd8eda954774</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yDmH0d']/c-wiz/div/div[2]/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.RDsYTb > div.dMNVAe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Not your computer? Use Guest mode to sign in privately. Learn more about using G&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a31fed73-e907-4c9f-90fd-d7c8edb4d21a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dMNVAe</value>
+      <webElementGuid>cc1a45f7-6210-4103-8d37-07b391d79c7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Not your computer? Use Guest mode to sign in privately. Learn more about using Guest mode</value>
+      <webElementGuid>925bb5c3-7ab2-4364-b55a-81dabdde6c66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;A77ntc&quot;]/div[@class=&quot;Svhjgc&quot;]/div[@class=&quot;UXFQgc&quot;]/div[@class=&quot;qWK5J&quot;]/div[@class=&quot;xKcayf&quot;]/div[2]/div[@class=&quot;RDsYTb&quot;]/div[@class=&quot;dMNVAe&quot;]</value>
+      <webElementGuid>b1c52103-363a-44ef-b6d9-c36d41485641</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yDmH0d']/c-wiz/div/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>2fb7f929-b672-4843-ad64-4fc078864e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot email?'])[1]/following::div[21]</value>
+      <webElementGuid>57a0e797-4f63-4964-9df3-5adc9158c71a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use your Google Account'])[1]/following::div[40]</value>
+      <webElementGuid>392dbc28-aced-401d-903f-bbcaec22d954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::div[4]</value>
+      <webElementGuid>ef7f1c28-4c9f-4a35-b8be-a4d75318c470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Not your computer? Use Guest mode to sign in privately.']/parent::*</value>
+      <webElementGuid>984dacac-f9e4-4991-a7b8-8d619c7f4d07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div</value>
+      <webElementGuid>369f8437-474c-4c59-a7eb-6581cc41608d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Not your computer? Use Guest mode to sign in privately. Learn more about using Guest mode' or . = 'Not your computer? Use Guest mode to sign in privately. Learn more about using Guest mode')]</value>
+      <webElementGuid>04fcf9a8-d857-4947-abb9-909783c651bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

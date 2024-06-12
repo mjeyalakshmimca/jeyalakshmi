@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Academic Council Members</name>
+   <tag></tag>
+   <elementGuidId>f94d6185-3c70-4f55-8922-e86757c8e2e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-inner']/div/div/div/table/tbody/tr[3]/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Academic Council Members&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4ff11139-0ae6-4b11-812a-0483c55d67f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>auth_acadcouncil.php</value>
+      <webElementGuid>03b02c18-7632-4f4f-a207-0e8e17304870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Academic Council Members</value>
+      <webElementGuid>4ce4bad2-9c54-4d3c-a8c3-6c7ec5508000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-inner&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[1]/table[1]/tbody[1]/tr[3]/td[2]/a[1]</value>
+      <webElementGuid>9c30afb1-dbda-4e0b-93f0-56a7b350edb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-inner']/div/div/div/table/tbody/tr[3]/td[2]/a</value>
+      <webElementGuid>494d97a8-f8d8-420f-baff-9e3b107aa28c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Academic Council Members')]</value>
+      <webElementGuid>ab678f96-bc72-4cc1-97b4-1928ffd22101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administration'])[3]/following::a[2]</value>
+      <webElementGuid>7186b436-ccb1-47f4-96d5-a4d21288cc4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May I Help You'])[1]/preceding::a[2]</value>
+      <webElementGuid>4f89d79a-1d34-41f6-a710-66bbc7e17490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'auth_acadcouncil.php')]</value>
+      <webElementGuid>dc4e83eb-75b3-41e3-8f3b-4abb46867ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/a</value>
+      <webElementGuid>8f92e379-7873-490d-afb9-bb10defcd6c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'auth_acadcouncil.php' and (text() = '  Academic Council Members' or . = '  Academic Council Members')]</value>
+      <webElementGuid>18c709e6-7bf0-4b4d-9b09-b9f73faf3996</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

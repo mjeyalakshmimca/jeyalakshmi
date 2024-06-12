@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Read more</name>
+   <tag></tag>
+   <elementGuidId>2f1dec8e-d1ee-4aa6-aa30-e9ce63a67a05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-inner']/div[3]/div/div/div/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Read more ...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>98b9922e-f161-41c5-bb93-75963a297eec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>about_university.php</value>
+      <webElementGuid>9b659380-06d2-4cee-8eb1-0c9386bc7308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>new</value>
+      <webElementGuid>ab83e92f-b14a-47e5-9510-047e94ad7885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read more ...</value>
+      <webElementGuid>489cdc46-68c3-4c0a-b9aa-c61e546a01d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-inner&quot;)/div[@class=&quot;row&quot;]/div[1]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;text-justify&quot;]/p[1]/a[1]</value>
+      <webElementGuid>32d7764c-d673-45d7-9cc4-044c815c278e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-inner']/div[3]/div/div/div/p/a</value>
+      <webElementGuid>e4531515-6361-4ebe-a0ba-275e0702a41f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Read more ...')]</value>
+      <webElementGuid>995a46a0-81bc-4fa0-b672-488545cde7f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WELCOME TO ANNAMALAI UNIVERSITY'])[1]/following::a[1]</value>
+      <webElementGuid>65357615-826c-40fe-83d2-1e3289600390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Read more ...']/parent::*</value>
+      <webElementGuid>d7d8c147-4b52-42f4-b2ee-8ceebdd79bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'about_university.php')])[2]</value>
+      <webElementGuid>0e309237-7e76-402a-baa5-69b258ca0467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>b909cfb8-6a70-49e4-aaff-9720958b8ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'about_university.php' and (text() = 'Read more ...' or . = 'Read more ...')]</value>
+      <webElementGuid>a60bba54-afc9-4604-87c3-3659721c23ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
